@@ -1,10 +1,10 @@
-#learn jQuery, the most popular JavaScript tool of all time.
+learn jQuery, the most popular JavaScript tool of all time.
 
 
-#Clone the JQuery Playground file and practice the following on it.
+Clone the JQuery Playground file and practice the following on it.
 
 
-#steps to add jquery to a HTML Document 
+steps to add jquery to a HTML Document 
 
 1.Script Tags and Document Ready	
    - add a script element at the top of your page. Be sure to close it on the following line.
@@ -161,7 +161,7 @@ s with class .btn.ie:
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/o_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -277,20 +277,6 @@ This is an example of how to list things you need to use the software and how to
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
