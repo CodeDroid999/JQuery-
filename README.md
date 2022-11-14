@@ -1,7 +1,11 @@
-learn jQuery, the most popular JavaScript tool of all time.
+###Learn jQuery, the most popular JavaScript tool of all time.
 
-
-Clone the JQuery Playground file and practice the following on it.
+##Getting started:
+<ol>
+<li>Clone the JQuery Playground Repository or download zip file here</li>
+<li>cd into the dirsctory and open the file with a text editor<li>
+<li>Practice the following steps on the file</li>
+<ol>
 
 
 steps to add jquery to a HTML Document 
