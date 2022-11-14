@@ -1,6 +1,6 @@
-###Learn jQuery, the most popular JavaScript tool of all time.
+### Learn jQuery, the most popular JavaScript tool of all time.
 
-##Getting started:
+## Getting started:
 <ol>
 <li>Clone the JQuery Playground Repository or<a href="https://github.com/CodeDroid999/JQuery-/archive/refs/heads/main.zip"> download zip file here</a></li>
 <li>cd into the dirsctory and open the file with a text editor<li>
@@ -8,7 +8,7 @@
 </ol>
 
 
-##Steps to add jquery to a HTML Document 
+## Steps to add jquery to a HTML Document 
 
 1.Script Tags and Document Ready	
    - add a script element at the top of your page. Be sure to close it on the following line.
