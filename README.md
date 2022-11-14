@@ -3,7 +3,7 @@
 ## Getting started:
 <ol>
 <li>Clone the JQuery Playground Repository or<a href="https://github.com/CodeDroid999/JQuery-/archive/refs/heads/main.zip"> download zip file here</a></li>
-<li>cd into the dirsctory and open the file with a text editor<li>
+<li>cd into the dirsctory and open the file with a text editor</li>
 <li>Practice the following steps on the file</li>
 </ol>
 
