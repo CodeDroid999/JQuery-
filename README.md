@@ -1,6 +1,13 @@
 ### Learn jQuery, the most popular JavaScript tool of all time.
 
 ## Getting started:
+
+## Get the Code
+
+```
+$ git clone https://github.com/CodeDroid999/JQuery.git
+---
+
 <ol>
 <li>Clone the JQuery Playground Repository or<a href="https://github.com/CodeDroid999/JQuery-/archive/refs/heads/main.zip"> download zip file here</a></li>
 <li>cd into the dirsctory and open the file with a text editor</li>
